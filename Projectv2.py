@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
+# DataScience Project TCNER - Group -20 - Émile Heijs & Hrishikesh Mane
 
+# imports
 import pandas as pd
 import numpy as np
 import nltk
